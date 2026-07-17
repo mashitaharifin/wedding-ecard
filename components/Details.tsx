@@ -145,7 +145,7 @@ export default function Details() {
               </div>
               <div className="p-2 bg-stone-50 rounded border border-stone-100">
                 <p className="font-semibold text-stone-700">Puan Rafiah (Mother)</p>
-                <a href="https://wa.me/60137962093" className="text-emerald-700 mt-0.5 block hover:underline">WhatsApp</a>
+                <a href="https://wa.me/60137962903" className="text-emerald-700 mt-0.5 block hover:underline">WhatsApp</a>
               </div>
             </div>
           </div>
